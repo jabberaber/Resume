@@ -1,0 +1,10 @@
+.name {
+  color: blue;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+body {
+  background-color: linen;
+  padding-left: 25%
+}
